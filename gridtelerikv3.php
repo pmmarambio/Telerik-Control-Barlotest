@@ -1,5 +1,6 @@
 <?php
 	//PDO REMOTO EXITOSO
+        //Seguimiento 2
 	
 	$servername = "190.3.171.23";
 	$username = "barlosp_btest";
